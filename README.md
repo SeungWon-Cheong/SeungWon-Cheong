@@ -1,4 +1,19 @@
-### Hi there 👋
+📩semo970921@naver.com📩
+
+```javascript
+const name = "SeungWon_Cheong"
+console.log("Hello everyone," +name)
+```
+
+*안녕하세요* 👋
+제 이름은 정승원 입니다.
+23년도에 편입학을 하여 현재 컴퓨터전공을 하고있는 늦깍이 대학생입니다!
+뭐든지 배우려는 자세로 성실하게 임하겠습니다😊
+
+평소 컴공을 갈까말까 고민을 하다가 늦게 입힉을 한 만큼
+
+~~절대 어떤 어려운 알고리즘 앞에서도 포가하지 않겠습니다~~
+
 
 <!--
 **SeungWon-Cheong/SeungWon-Cheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
